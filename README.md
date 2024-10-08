@@ -8,6 +8,6 @@ Here I will post pieces of my code from my courses' practice and some of my proj
 **Currently learning:**<br>
 ⌨️ Python<br>
 💻 web development<br>
-📈 basics of data science<br>
+📈 basics of data analytics<br>
 
 🌍 I speak English and Russian languages. I learn French and Swedish.
